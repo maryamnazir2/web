@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4maH/kA5rv+akEYNFCIML8p+jp+Oc/K24XT1kSY22/br9y7pFEjeSoImCBU25wxb0+TK0emuHuNtqjq96z9Baw==",
+  "success": true,
+  "projectFilePath": "/Users/Maryam/Desktop/demo/WebApp/WebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/Maryam/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.14/microsoft.aspnetcore.spaproxy.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
